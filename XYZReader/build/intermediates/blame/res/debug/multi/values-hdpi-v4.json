@@ -1,5 +1,31 @@
 [
     {
+        "outputFile": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hdpi/values-hdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
@@ -13,6 +39,32 @@
                 },
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endLine": 8,
+                        "endColumn": 13,
+                        "endOffset": 552
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-hdpi-v4/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

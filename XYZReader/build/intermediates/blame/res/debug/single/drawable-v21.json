@@ -2,5 +2,21 @@
     {
         "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
         "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/white_selectable_item_background_circle.xml",
+        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/src/main/res/drawable-v21/white_selectable_item_background_circle.xml"
+    },
+    {
+        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
     }
 ]

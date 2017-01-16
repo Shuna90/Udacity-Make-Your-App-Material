@@ -307,5 +307,661 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 106,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 276,
+                        "endColumn": 106,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 108,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 108,
+                        "endOffset": 487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 123,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 492,
+                        "endColumn": 123,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 101,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 101,
+                        "endOffset": 713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 108,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 718,
+                        "endColumn": 108,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 85,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 104,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 104,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 116,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 116,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 103,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 103,
+                        "endOffset": 1234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 108,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1239,
+                        "endColumn": 108,
+                        "endOffset": 1343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 98,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1348,
+                        "endColumn": 98,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 105,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1447,
+                        "endColumn": 105,
+                        "endOffset": 1548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 109,
+                    "endOffset": 1437
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1553,
+                        "endColumn": 109,
+                        "endOffset": 1658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1442,
+                    "endColumn": 106,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1663,
+                        "endColumn": 106,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 121,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1770,
+                        "endColumn": 121,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endColumn": 97,
+                    "endOffset": 1764
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-cs/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1892,
+                        "endColumn": 97,
+                        "endOffset": 1985
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 106,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 106,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 108,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 108,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 123,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 123,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 101,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 101,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 108,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 108,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 85,
+                    "endOffset": 687
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 85,
+                        "endOffset": 912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 692,
+                    "endColumn": 104,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 104,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 116,
+                    "endOffset": 909
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 116,
+                        "endOffset": 1134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 914,
+                    "endColumn": 83,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1139,
+                        "endColumn": 83,
+                        "endOffset": 1218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 103,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1223,
+                        "endColumn": 103,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 108,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endColumn": 108,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endColumn": 98,
+                    "endOffset": 1305
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1436,
+                        "endColumn": 98,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1310,
+                    "endColumn": 105,
+                    "endOffset": 1411
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1535,
+                        "endColumn": 105,
+                        "endOffset": 1636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1416,
+                    "endColumn": 109,
+                    "endOffset": 1521
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1641,
+                        "endColumn": 109,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1526,
+                    "endColumn": 106,
+                    "endOffset": 1628
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1751,
+                        "endColumn": 106,
+                        "endOffset": 1853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1633,
+                    "endColumn": 121,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1858,
+                        "endColumn": 121,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endColumn": 97,
+                    "endOffset": 1848
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 97,
+                        "endOffset": 2073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1853,
+                    "endColumn": 100,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2078,
+                        "endColumn": 100,
+                        "endOffset": 2174
+                    }
+                }
+            }
+        ]
     }
 ]
