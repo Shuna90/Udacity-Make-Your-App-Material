@@ -23,4 +23,5 @@
     <color name="color_accent">#FFAB40</color>
 
     <color name="dark_gray">#424242</color>
+    <color name="light_gray">#eeeeee</color>
 </resources>

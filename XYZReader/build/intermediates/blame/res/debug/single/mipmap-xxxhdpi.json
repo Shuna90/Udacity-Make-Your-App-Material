@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4.Material/xyzreader-2/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/Material/xyzreader-2/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
         "source": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
