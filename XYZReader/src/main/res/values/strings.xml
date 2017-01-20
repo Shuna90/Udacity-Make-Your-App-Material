@@ -8,5 +8,8 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
-
+    
+    <string name="transition_photo">transition_photo</string>
+    <string name="empty_recycler_view_no_network">The network is not available. Please check the internet connection.</string>
+    <string name="no_information_available">No information available.</string>
 </resources>

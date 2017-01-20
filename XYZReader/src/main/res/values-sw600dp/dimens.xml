@@ -1,4 +1,9 @@
 <resources>
+
+    <!-- list -->
+    <dimen name="list_side_margin">16dp</dimen>
+    <integer name="list_column_count">3</integer>
+
     <!-- detail -->
     <dimen name="detail_title_text_size">42sp</dimen>
     <dimen name="detail_body_text_size">20sp</dimen>

@@ -1,9 +1,12 @@
 package com.example.xyzreader.ui;
 
+import android.app.Activity;
+import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Bitmap;
+import android.os.Build;
 import android.support.v7.graphics.Palette;
 import android.support.v7.widget.RecyclerView;
 import android.text.format.DateUtils;
@@ -21,10 +24,14 @@ import com.example.xyzreader.data.ItemsContract;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+import static com.example.xyzreader.ui.ArticleListActivity.EXTRA_STARTING_ARTICLE_POSITION;
+import static com.example.xyzreader.ui.ArticleListActivity.mIsDetailsActivityStarted;
+
 
 public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.ViewHolder> {
     private Cursor mCursor;
     private Context mContext;
+    private int mArticlePosition;
 
     public class ViewHolder extends RecyclerView.ViewHolder {
         @BindView(R.id.thumbnail) DynamicHeightNetworkImageView thumbnailView;
@@ -56,16 +63,41 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
         view.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mContext.startActivity(new Intent(Intent.ACTION_VIEW,
-                        ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+                mArticlePosition=vh.getAdapterPosition();
+
+                ActivityOptions bundle = null;
+                if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
+                    bundle = ActivityOptions.makeSceneTransitionAnimation(
+                            (Activity) mContext,
+                            vh.thumbnailView,
+                            mContext.getResources().getString(R.string.transition_photo)
+                    );
+                }
+                Intent intent = new Intent(Intent.ACTION_VIEW,
+                        ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition())));
+                intent.putExtra(EXTRA_STARTING_ARTICLE_POSITION, mArticlePosition);
+                if (!ArticleListActivity.getmIsDetailsActivityStarted()) {
+                    mIsDetailsActivityStarted = true;
+                    mContext.startActivity(intent, bundle.toBundle());
+                }else{
+                    mContext.startActivity(intent);
+                }
             }
         });
         return vh;
     }
 
+
     @Override
     public void onBindViewHolder(final ViewHolder holder, int position) {
         mCursor.moveToPosition(position);
+        mArticlePosition = position;
+
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            holder.thumbnailView.setTransitionName(mContext.getString(R.string.transition_photo) + position);
+        }
+        holder.thumbnailView.setTag(mContext.getString(R.string.transition_photo) + position);
+
         String title = mCursor.getString(ArticleLoader.Query.TITLE);
         String subtitle = DateUtils.getRelativeTimeSpanString(
                 mCursor.getLong(ArticleLoader.Query.PUBLISHED_DATE),
@@ -78,13 +110,6 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
         holder.authorView.setText(author);
         holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
 
-        /*
-        // not working don't know why
-        Picasso.with(holder.thumbnailView.getContext())
-                .load(image)
-                .into(holder.thumbnailView);
-        */
-
         ImageLoader loader = ImageLoaderHelper.getInstance(mContext).getImageLoader();
         holder.thumbnailView.setImageUrl(image, loader);
         loader.get(image, new ImageLoader.ImageListener() {
@@ -92,8 +117,8 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
             public void onResponse(ImageLoader.ImageContainer imageContainer, boolean b) {
                 Bitmap bitmap = imageContainer.getBitmap();
                 if (bitmap != null) {
-                    Palette p = Palette.generate(bitmap, 12);
-                    int mMutedColor = p.getDarkMutedColor(0xFF333333);
+                    Palette p = Palette.from(bitmap).generate();
+                    int mMutedColor = p.getDarkMutedColor(0xFF424242);
                     holder.itemView.setBackgroundColor(mMutedColor);
                 }
             }
@@ -103,6 +128,7 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
 
             }
         });
+
 
     }
 

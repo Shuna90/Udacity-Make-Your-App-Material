@@ -10,18 +10,18 @@
 
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
-            app:layout_scrollFlags="scroll|enterAlways"
-            app:popupTheme="@style/AppTheme.PopupOverlay"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="?actionBarSize"
-                android:src="@drawable/logo"
                 android:layout_gravity="center"
                 android:layout_margin="@dimen/list_side_margin"
-                android:contentDescription="@string/app_name" />
+                android:contentDescription="@string/app_name"
+                android:src="@drawable/logo" />
         </android.support.v7.widget.Toolbar>
     </android.support.design.widget.AppBarLayout>
 
@@ -35,9 +35,10 @@
             android:id="@+id/recycler_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:padding="@dimen/list_side_margin"
             android:clipToPadding="false"
-            android:scrollbarStyle="outsideOverlay"/>
+            android:padding="@dimen/list_side_margin"
+            android:scrollbarStyle="outsideOverlay" />
+
     </android.support.v4.widget.SwipeRefreshLayout>
 
 </android.support.design.widget.CoordinatorLayout>

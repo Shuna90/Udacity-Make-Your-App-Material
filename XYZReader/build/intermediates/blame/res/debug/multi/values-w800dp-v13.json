@@ -11,13 +11,13 @@
                     "endOffset": 104
                 },
                 "from": {
-                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/dimens.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 232,
+                        "startOffset": 271,
                         "endColumn": 53,
-                        "endOffset": 281
+                        "endOffset": 320
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 152
                 },
                 "from": {
-                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/dimens.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 34,
+                        "startOffset": 73,
                         "endColumn": 47,
-                        "endOffset": 77
+                        "endOffset": 116
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 208
                 },
                 "from": {
-                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/dimens.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 82,
+                        "startOffset": 121,
                         "endColumn": 55,
-                        "endOffset": 133
+                        "endOffset": 172
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 258
                 },
                 "from": {
-                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-w800dp/dimens.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 161,
+                        "startOffset": 200,
                         "endColumn": 49,
-                        "endOffset": 206
+                        "endOffset": 245
                     }
                 }
             }

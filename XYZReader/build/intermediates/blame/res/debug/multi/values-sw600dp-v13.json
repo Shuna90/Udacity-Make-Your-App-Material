@@ -279,11 +279,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 590,
+                        "startOffset": 708,
                         "endColumn": 56,
-                        "endOffset": 642
+                        "endOffset": 760
                     }
                 }
             },
@@ -298,11 +298,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 90,
+                        "startOffset": 208,
                         "endColumn": 52,
-                        "endOffset": 138
+                        "endOffset": 256
                     }
                 }
             },
@@ -317,11 +317,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 353,
+                        "startOffset": 471,
                         "endColumn": 54,
-                        "endOffset": 403
+                        "endOffset": 521
                     }
                 }
             },
@@ -336,11 +336,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 408,
+                        "startOffset": 526,
                         "endColumn": 56,
-                        "endOffset": 460
+                        "endOffset": 578
                     }
                 }
             },
@@ -355,11 +355,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 524,
+                        "startOffset": 642,
                         "endColumn": 65,
-                        "endOffset": 585
+                        "endOffset": 703
                     }
                 }
             },
@@ -374,11 +374,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 465,
+                        "startOffset": 583,
                         "endColumn": 58,
-                        "endOffset": 519
+                        "endOffset": 637
                     }
                 }
             },
@@ -393,11 +393,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 301,
+                        "startOffset": 419,
                         "endColumn": 51,
-                        "endOffset": 348
+                        "endOffset": 466
                     }
                 }
             },
@@ -412,11 +412,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 36,
+                        "startOffset": 154,
                         "endColumn": 53,
-                        "endOffset": 85
+                        "endOffset": 203
                     }
                 }
             },
@@ -431,11 +431,11 @@
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 238,
+                        "startOffset": 356,
                         "endColumn": 41,
-                        "endOffset": 275
+                        "endOffset": 393
                     }
                 }
             },
@@ -444,17 +444,17 @@
                     "startLine": 25,
                     "startColumn": 4,
                     "startOffset": 1525,
-                    "endColumn": 94,
-                    "endOffset": 1615
+                    "endColumn": 47,
+                    "endOffset": 1568
                 },
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 94,
-                        "endOffset": 233
+                        "startOffset": 35,
+                        "endColumn": 47,
+                        "endOffset": 78
                     }
                 }
             },
@@ -462,9 +462,28 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1620,
+                    "startOffset": 1573,
+                    "endColumn": 94,
+                    "endOffset": 1663
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 261,
+                        "endColumn": 94,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1668,
                     "endColumn": 54,
-                    "endOffset": 1670
+                    "endOffset": 1718
                 },
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
@@ -479,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1675,
+                    "startOffset": 1723,
                     "endColumn": 62,
-                    "endOffset": 1733
+                    "endOffset": 1781
                 },
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
@@ -498,12 +517,31 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1738,
-                    "endLine": 31,
+                    "startOffset": 1786,
+                    "endColumn": 49,
+                    "endOffset": 1831
+                },
+                "from": {
+                    "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 83,
+                        "endColumn": 49,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1836,
+                    "endLine": 33,
                     "endColumn": 12,
-                    "endOffset": 1915
+                    "endOffset": 2013
                 },
                 "from": {
                     "file": "/Users/shuna/Documents/NanoDegree/NanoDegree_Android/course/4Material/xyzreader-2/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",

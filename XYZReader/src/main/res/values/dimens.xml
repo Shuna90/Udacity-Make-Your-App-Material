@@ -28,7 +28,10 @@
 
     <!-- card -->
     <dimen name="card_inside_text_padding">16dp</dimen>
+    <dimen name="card_inside_margin">4dp</dimen>
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <integer name="fragment_details_background_image_fade_millis">1000</integer>
 </resources>
