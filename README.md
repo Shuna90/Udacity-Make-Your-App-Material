@@ -8,7 +8,7 @@ Transformed the user experience of a news reading app using Fundamentals Materia
 * Palette, Background Protection and Aspect Ratio Image
 * Motion, Content Transition and Shared element transition
 
-###Demo
+##Demo
 ![](https://cloud.githubusercontent.com/assets/11967184/22170640/6c06d470-df35-11e6-8be9-80a8122b6551.gif)
 
 
