@@ -1,12 +1,12 @@
 package com.example.xyzreader.ui;
 
 import android.app.Activity;
-import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.os.Build;
+import android.support.v4.app.ActivityOptionsCompat;
 import android.support.v7.graphics.Palette;
 import android.support.v7.widget.RecyclerView;
 import android.text.format.DateUtils;
@@ -25,7 +25,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 import static com.example.xyzreader.ui.ArticleListActivity.EXTRA_STARTING_ARTICLE_POSITION;
-import static com.example.xyzreader.ui.ArticleListActivity.mIsDetailsActivityStarted;
 
 
 public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.ViewHolder> {
@@ -63,25 +62,25 @@ public class ArticleListAdapter extends RecyclerView.Adapter<ArticleListAdapter.
         view.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                mArticlePosition=vh.getAdapterPosition();
+                mArticlePosition = vh.getAdapterPosition();
 
-                ActivityOptions bundle = null;
+                ActivityOptionsCompat bundle = null;
                 if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.LOLLIPOP) {
-                    bundle = ActivityOptions.makeSceneTransitionAnimation(
+                    bundle = ActivityOptionsCompat.makeSceneTransitionAnimation(
                             (Activity) mContext,
                             vh.thumbnailView,
-                            mContext.getResources().getString(R.string.transition_photo)
+                            vh.thumbnailView.getTransitionName()
                     );
                 }
                 Intent intent = new Intent(Intent.ACTION_VIEW,
                         ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition())));
                 intent.putExtra(EXTRA_STARTING_ARTICLE_POSITION, mArticlePosition);
-                if (!ArticleListActivity.getmIsDetailsActivityStarted()) {
-                    mIsDetailsActivityStarted = true;
+                //if (!ArticleListActivity.getmIsDetailsActivityStarted()) {
+                   // mIsDetailsActivityStarted = true;
                     mContext.startActivity(intent, bundle.toBundle());
-                }else{
-                    mContext.startActivity(intent);
-                }
+                //}else{
+                    //mContext.startActivity(intent);
+                //}
             }
         });
         return vh;

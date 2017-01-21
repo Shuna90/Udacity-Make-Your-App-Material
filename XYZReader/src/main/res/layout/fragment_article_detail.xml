@@ -35,7 +35,7 @@
                     android:layout_height="match_parent"
                     android:scaleType="centerCrop"
                     android:fitsSystemWindows="true"
-                    android:transitionName="@string/transition_photo"/>
+                    />
 
                 <View
                     android:layout_width="match_parent"
